@@ -1,0 +1,103 @@
+{
+    "politicians": [
+        {
+            "id": 1,
+            "age": 45,
+            "name": {
+                "first": "Charlene",
+                "last": "Harding"
+            },
+            "phone": "+1 (941) 415-3565",
+            "district": "Bethpage, Maine",
+            "platform": "Laborum pariatur elit eiusmod voluptate. Anim sit eu magna reprehenderit do ea reprehenderit minim eu non aliquip laboris reprehenderit sint. In quis occaecat exercitation mollit sunt ut Lorem irure aute occaecat pariatur. Do in Lorem laborum anim. Sit ipsum ut tempor reprehenderit elit. Magna ut aute laboris esse irure id. Reprehenderit aliquip dolore cupidatat cillum sunt consectetur consequat dolore ullamco do voluptate sunt."
+        },
+        {
+            "id": 2,
+            "age": 30,
+            "name": {
+                "first": "Hale",
+                "last": "Baxter"
+            },
+            "phone": "+1 (909) 510-2435",
+            "district": "Mappsville, Missouri",
+            "platform": "Magna in sunt eiusmod culpa tempor. Aute Lorem laborum eiusmod tempor proident id culpa aliqua commodo occaecat voluptate esse adipisicing est. Laboris nostrud velit est magna reprehenderit. Eu deserunt Lorem laboris quis ullamco non et nisi duis do eu tempor. In culpa amet velit incididunt officia cillum velit qui irure culpa quis magna commodo."
+        },
+        {
+            "id": 3,
+            "age": 39,
+            "name": {
+                "first": "Dyer",
+                "last": "Cummings"
+            },
+            "phone": "+1 (927) 432-3831",
+            "district": "Tuskahoma, Oklahoma",
+            "platform": "Eiusmod irure Lorem amet ipsum sit. Minim dolore enim elit incididunt mollit duis fugiat occaecat occaecat id. Ullamco proident non ea eiusmod minim culpa culpa veniam est cillum. Tempor excepteur anim aliquip officia tempor officia ullamco nostrud incididunt. Lorem aliquip occaecat ullamco minim velit enim. Minim enim laborum incididunt nisi esse labore ea. Cillum labore irure tempor sint et voluptate anim cupidatat anim qui nostrud ipsum."
+        },
+        {
+            "id": 4,
+            "age": 35,
+            "name": {
+                "first": "Lorena",
+                "last": "Shaw"
+            },
+            "phone": "+1 (832) 401-3736",
+            "district": "Loomis, Nebraska",
+            "platform": "Est nulla ad nisi minim aute voluptate eiusmod voluptate irure elit excepteur irure cupidatat. Tempor minim tempor do officia ullamco incididunt deserunt commodo in excepteur. Esse nulla minim nulla deserunt fugiat aliqua proident pariatur adipisicing voluptate voluptate proident velit ea. Aute exercitation aliquip proident aliquip eu ad eiusmod reprehenderit aute occaecat deserunt. Elit ipsum proident Lorem occaecat laboris in consequat excepteur labore. Duis culpa pariatur sunt elit officia Lorem. Duis sunt mollit proident dolore aliqua qui qui dolore exercitation non aliqua ipsum labore."
+        },
+        {
+            "id": 5,
+            "age": 57,
+            "name": {
+                "first": "Pope",
+                "last": "Copeland"
+            },
+            "phone": "+1 (965) 495-2838",
+            "district": "Otranto, Nevada",
+            "platform": "Consectetur deserunt quis ut reprehenderit dolor non in commodo ut consectetur id. Cupidatat culpa dolore do minim commodo commodo mollit proident aliqua culpa fugiat culpa magna. Ex esse tempor adipisicing elit pariatur velit consequat. Ex sit ad irure non quis sint exercitation ut nisi. Fugiat consectetur ut labore occaecat sit elit eu anim ut."
+        },
+        {
+            "id": 6,
+            "age": 36,
+            "name": {
+                "first": "Mccall",
+                "last": "Russo"
+            },
+            "phone": "+1 (979) 415-2951",
+            "district": "Alfarata, Pennsylvania",
+            "platform": "Adipisicing cupidatat cupidatat quis officia nisi adipisicing laboris cillum sit commodo mollit Lorem quis quis. Nulla duis et in dolor quis amet amet labore veniam sit. Sint excepteur eiusmod ut anim. Lorem elit et est consectetur reprehenderit irure Lorem occaecat dolore ut dolor. Eiusmod nostrud ad consequat irure irure fugiat ipsum laboris velit Lorem non aliqua eiusmod."
+        },
+        {
+            "id": 7,
+            "age": 49,
+            "name": {
+                "first": "Marquez",
+                "last": "Holman"
+            },
+            "phone": "+1 (829) 579-2282",
+            "district": "Rockingham, Iowa",
+            "platform": "Aliquip enim et mollit commodo mollit incididunt adipisicing reprehenderit. Ea adipisicing ut commodo quis enim aliquip occaecat. Aute laborum ut cillum aliquip. Commodo adipisicing aute occaecat dolore anim pariatur enim."
+        },
+        {
+            "id": 8,
+            "age": 38,
+            "name": {
+                "first": "Claudette",
+                "last": "York"
+            },
+            "phone": "+1 (918) 456-2814",
+            "district": "Chesapeake, Palau",
+            "platform": "Tempor mollit ipsum labore labore aliqua id minim dolore. Ullamco tempor officia mollit eu proident nostrud. Irure ex deserunt ipsum ea culpa eu laboris est fugiat fugiat quis aliqua. Non in in nulla sit deserunt incididunt culpa ex."
+        },
+        {
+            "id": 9,
+            "age": 31,
+            "name": {
+                "first": "Carney",
+                "last": "Herring"
+            },
+            "phone": "+1 (932) 402-3401",
+            "district": "Wakulla, Tennessee",
+            "platform": "Eu elit occaecat amet non deserunt irure tempor ad dolor irure pariatur nostrud laboris duis. Commodo aute quis laboris quis eiusmod id sint aliqua. Dolore minim nostrud commodo ut et irure."
+        }
+    ]
+}
