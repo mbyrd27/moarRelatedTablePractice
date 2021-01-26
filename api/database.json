@@ -99,5 +99,44 @@
             "district": "Wakulla, Tennessee",
             "platform": "Eu elit occaecat amet non deserunt irure tempor ad dolor irure pariatur nostrud laboris duis. Commodo aute quis laboris quis eiusmod id sint aliqua. Dolore minim nostrud commodo ut et irure."
         }
+    ],
+
+    "corporations": [
+        {
+            "id": 1,
+            "company": "XLEEN",
+            "phone": "+1 (827) 509-2635",
+            "address": "962 Burnett Street, Saranap, Tennessee, 1770"
+        },
+        {
+            "id": 2,
+            "company": "COMSTRUCT",
+            "phone": "+1 (887) 455-2196",
+            "address": "356 Conway Street, Guilford, Marshall Islands, 8207"
+        },
+        {
+            "id": 3,
+            "company": "COMVERGES",
+            "phone": "+1 (907) 459-2980",
+            "address": "693 Gaylord Drive, Groton, Nevada, 1897"
+        },
+        {
+            "id": 4,
+            "company": "TALAE",
+            "phone": "+1 (890) 448-3519",
+            "address": "998 Debevoise Street, Frystown, Maine, 3850"
+        },
+        {
+            "id": 5,
+            "company": "HOMELUX",
+            "phone": "+1 (903) 463-3195",
+            "address": "990 Rewe Street, Montura, American Samoa, 443"
+        },
+        {
+            "id": 6,
+            "company": "INJOY",
+            "phone": "+1 (972) 512-2973",
+            "address": "725 Lafayette Walk, Allison, South Dakota, 5746"
+        }
     ]
 }
