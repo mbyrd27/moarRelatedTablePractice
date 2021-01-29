@@ -138,5 +138,173 @@
             "phone": "+1 (972) 512-2973",
             "address": "725 Lafayette Walk, Allison, South Dakota, 5746"
         }
+    ],
+
+    "pacs": [
+        {
+            "id": 1,
+            "registeredName": "QUOTEZART",
+            "phone": "+1 (836) 540-3162",
+            "address": "222 Ash Street, Faxon, Maine, 7441"
+        },
+        {
+            "id": 2,
+            "registeredName": "ROTODYNE",
+            "phone": "+1 (830) 560-3601",
+            "address": "868 Neptune Court, Witmer, Palau, 5795"
+        },
+        {
+            "id": 3,
+            "registeredName": "REALYSIS",
+            "phone": "+1 (819) 484-3543",
+            "address": "736 Senator Street, Blodgett, Virginia, 6599"
+        },
+        {
+            "id": 4,
+            "registeredName": "UNI",
+            "phone": "+1 (911) 492-3192",
+            "address": "334 Knapp Street, Moquino, North Dakota, 5933"
+        },
+        {
+            "id": 5,
+            "registeredName": "MAGNEATO",
+            "phone": "+1 (927) 567-2633",
+            "address": "994 Keen Court, Campo, North Carolina, 4450"
+        },
+        {
+            "id": 6,
+            "registeredName": "VIXO",
+            "phone": "+1 (823) 439-3316",
+            "address": "351 Legion Street, Lloyd, Texas, 9099"
+        },
+        {
+            "id": 7,
+            "registeredName": "HELIXO",
+            "phone": "+1 (882) 506-3575",
+            "address": "509 Denton Place, Frystown, Utah, 9503"
+        }
+    ],
+
+    "corporateDonations": [
+        {
+            "id": 1,
+            "corporationId": 5,
+            "pacId": 2,
+            "amount": 84853
+        },
+        {
+            "id": 2,
+            "corporationId": 1,
+            "pacId": 1,
+            "amount": 453
+        },
+        {
+            "id": 3,
+            "corporationId": 4,
+            "pacId": 6,
+            "amount": 86753
+        },
+        {
+            "id": 4,
+            "corporationId": 6,
+            "pacId": 2,
+            "amount": 32465
+        },
+        {
+            "id": 5,
+            "corporationId": 1,
+            "pacId": 4,
+            "amount": 7465
+        },
+        {
+            "id": 6,
+            "corporationId": 1,
+            "pacId": 3,
+            "amount": 45634
+        },
+        {
+            "id": 7,
+            "corporationId": 3,
+            "pacId": 7,
+            "amount": 494
+        },
+        {
+            "id": 8,
+            "corporationId": 2,
+            "pacId": 5,
+            "amount": 50209
+        },
+        {
+            "id": 9,
+            "corporationId": 1,
+            "pacId": 4,
+            "amount": 12341
+        },
+        {
+            "id": 10,
+            "corporationId": 4,
+            "pacId": 2,
+            "amount": 4532
+        },
+        {
+            "id": 11,
+            "corporationId": 3,
+            "pacId": 4,
+            "amount": 776
+        },
+        {
+            "id": 12,
+            "corporationId": 4,
+            "pacId": 2,
+            "amount": 9302
+        },
+        {
+            "id": 13,
+            "corporationId": 1,
+            "pacId": 1,
+            "amount": 6435
+        },
+        {
+            "id": 14,
+            "corporationId": 4,
+            "pacId": 1,
+            "amount": 1942
+        },
+        {
+            "id": 15,
+            "corporationId": 1,
+            "pacId": 6,
+            "amount": 43244
+        },
+        {
+            "id": 16,
+            "corporationId": 6,
+            "pacId": 3,
+            "amount": 4521
+        },
+        {
+            "id": 17,
+            "corporationId": 3,
+            "pacId": 7,
+            "amount": 8484
+        },
+        {
+            "id": 18,
+            "corporationId": 4,
+            "pacId": 1,
+            "amount": 3534
+        },
+        {
+            "id": 19,
+            "corporationId": 3,
+            "pacId": 2,
+            "amount": 8482
+        },
+        {
+            "id": 20,
+            "corporationId": 4,
+            "pacId": 3,
+            "amount": 5894
+        }
     ]
 }
