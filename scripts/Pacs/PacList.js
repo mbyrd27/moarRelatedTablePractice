@@ -32,7 +32,7 @@ export const PacList = () => {
         })
 }
 
-const summarize = (resultArray) => {
+export const summarize = (resultArray) => {
     return resultArray.reduce((a, c, i) => {
         if (i === 0) {
             a.push(c)
