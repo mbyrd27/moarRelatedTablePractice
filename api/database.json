@@ -306,5 +306,116 @@
             "pacId": 3,
             "amount": 5894
         }
-    ]
+    ], 
+    
+    "pacDonations":  [
+        {
+        "id": 1,
+        "pacId": 5,
+        "politicianId": 5,
+        "amount": 30102
+    },
+    {
+        "id": 2,
+        "pacId": 3,
+        "politicianId": 6,
+        "amount": 1022
+    },
+    {
+        "id": 3,
+        "pacId": 4,
+        "politicianId": 4,
+        "amount": 51922
+    },
+    {
+        "id": 4,
+        "pacId": 4,
+        "politicianId": 1,
+        "amount": 9441
+    },
+    {
+        "id": 5,
+        "pacId": 5,
+        "politicianId": 7,
+        "amount": 5939
+    },
+    {
+        "id": 6,
+        "pacId": 1,
+        "politicianId": 8,
+        "amount": 2049
+    },
+    {
+        "id": 7,
+        "pacId": 4,
+        "politicianId": 4,
+        "amount": 69224
+    },
+    {
+        "id": 8,
+        "pacId": 4,
+        "politicianId": 6,
+        "amount": 6499
+    },
+    {
+        "id": 9,
+        "pacId": 7,
+        "politicianId": 4,
+        "amount": 10423
+    },
+    {
+        "id": 10,
+        "pacId": 4,
+        "politicianId": 2,
+        "amount": 2291
+    },
+    {
+        "id": 11,
+        "pacId": 4,
+        "politicianId": 7,
+        "amount": 5012
+    },
+    {
+        "id": 12,
+        "pacId": 1,
+        "politicianId": 6,
+        "amount": 58493
+    },
+    {
+        "id": 13,
+        "pacId": 2,
+        "politicianId": 7,
+        "amount": 9134
+    },
+    {
+        "id": 14,
+        "pacId": 2,
+        "politicianId": 7,
+        "amount": 89358
+    },
+    {
+        "id": 15,
+        "pacId": 4,
+        "politicianId": 6,
+        "amount": 54822
+    },
+    {
+        "id": 16,
+        "pacId": 5,
+        "politicianId": 4,
+        "amount": 7584
+    },
+    {
+        "id": 17,
+        "pacId": 3,
+        "politicianId": 5,
+        "amount": 57483
+    },
+    {
+        "id": 18,
+        "pacId": 3,
+        "politicianId": 1,
+        "amount": 30193
+    }
+]
 }
