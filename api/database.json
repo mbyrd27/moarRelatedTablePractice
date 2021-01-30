@@ -310,112 +310,334 @@
     
     "pacDonations":  [
         {
-        "id": 1,
-        "pacId": 5,
-        "politicianId": 5,
-        "amount": 30102
-    },
-    {
-        "id": 2,
-        "pacId": 3,
-        "politicianId": 6,
-        "amount": 1022
-    },
-    {
-        "id": 3,
-        "pacId": 4,
-        "politicianId": 4,
-        "amount": 51922
-    },
-    {
-        "id": 4,
-        "pacId": 4,
-        "politicianId": 1,
-        "amount": 9441
-    },
-    {
-        "id": 5,
-        "pacId": 5,
-        "politicianId": 7,
-        "amount": 5939
-    },
-    {
-        "id": 6,
-        "pacId": 1,
-        "politicianId": 8,
-        "amount": 2049
-    },
-    {
-        "id": 7,
-        "pacId": 4,
-        "politicianId": 4,
-        "amount": 69224
-    },
-    {
-        "id": 8,
-        "pacId": 4,
-        "politicianId": 6,
-        "amount": 6499
-    },
-    {
-        "id": 9,
-        "pacId": 7,
-        "politicianId": 4,
-        "amount": 10423
-    },
-    {
-        "id": 10,
-        "pacId": 4,
-        "politicianId": 2,
-        "amount": 2291
-    },
-    {
-        "id": 11,
-        "pacId": 4,
-        "politicianId": 7,
-        "amount": 5012
-    },
-    {
-        "id": 12,
-        "pacId": 1,
-        "politicianId": 6,
-        "amount": 58493
-    },
-    {
-        "id": 13,
-        "pacId": 2,
-        "politicianId": 7,
-        "amount": 9134
-    },
-    {
-        "id": 14,
-        "pacId": 2,
-        "politicianId": 7,
-        "amount": 89358
-    },
-    {
-        "id": 15,
-        "pacId": 4,
-        "politicianId": 6,
-        "amount": 54822
-    },
-    {
-        "id": 16,
-        "pacId": 5,
-        "politicianId": 4,
-        "amount": 7584
-    },
-    {
-        "id": 17,
-        "pacId": 3,
-        "politicianId": 5,
-        "amount": 57483
-    },
-    {
-        "id": 18,
-        "pacId": 3,
-        "politicianId": 1,
-        "amount": 30193
-    }
-]
+            "id": 1,
+            "pacId": 5,
+            "politicianId": 5,
+            "amount": 30102
+        },
+        {
+            "id": 2,
+            "pacId": 3,
+            "politicianId": 6,
+            "amount": 1022
+        },
+        {
+            "id": 3,
+            "pacId": 4,
+            "politicianId": 4,
+            "amount": 51922
+        },
+        {
+            "id": 4,
+            "pacId": 4,
+            "politicianId": 1,
+            "amount": 9441
+        },
+        {
+            "id": 5,
+            "pacId": 5,
+            "politicianId": 7,
+            "amount": 5939
+        },
+        {
+            "id": 6,
+            "pacId": 1,
+            "politicianId": 8,
+            "amount": 2049
+        },
+        {   
+            "id": 7,
+            "pacId": 4,
+            "politicianId": 4,
+            "amount": 69224
+        },
+        {
+            "id": 8,
+            "pacId": 4,
+            "politicianId": 6,
+            "amount": 6499
+        },
+        {
+            "id": 9,
+            "pacId": 7,
+            "politicianId": 4,
+            "amount": 10423
+        },
+        {
+            "id": 10,
+            "pacId": 4,
+            "politicianId": 2,
+            "amount": 2291
+        },
+        {
+            "id": 11,
+            "pacId": 4,
+            "politicianId": 7,
+            "amount": 5012
+        },
+        {
+            "id": 12,
+            "pacId": 1,
+            "politicianId": 6,
+            "amount": 58493
+        },
+        {
+            "id": 13,
+            "pacId": 2,
+            "politicianId": 7,
+            "amount": 9134
+        },
+        {
+            "id": 14,
+            "pacId": 2,
+            "politicianId": 7,
+            "amount": 89358
+        },
+        {
+            "id": 15,
+            "pacId": 4,
+            "politicianId": 6,
+            "amount": 54822
+        },
+        {
+            "id": 16,
+            "pacId": 5,
+            "politicianId": 4,
+            "amount": 7584
+        },
+        {
+            "id": 17,
+            "pacId": 3,
+            "politicianId": 5,
+            "amount": 57483
+        },
+        {
+            "id": 18,
+            "pacId": 3,
+            "politicianId": 1,
+            "amount": 30193
+        }
+    ],
+
+    "bills": [
+        {
+            "id": 1,
+            "name": "S. 292: Childhood Cancer STAR Act",
+            "about": "Esse ad reprehenderit incididunt tempor laboris ad enim non. Velit aliqua pariatur aute cupidatat elit eiusmod enim fugiat Lorem consectetur eu deserunt incididunt. Voluptate labore sunt esse sint culpa excepteur anim ullamco sit nisi occaecat duis ipsum.",
+            "registered": "Tuesday, November 25, 2014 2:23 PM",
+            "interestId": 1
+        },
+        {
+            "id": 2,
+            "name": "H.R. 5215: Veterans Affairs Purchase Card Misuse Mitigation Act",
+            "about": "Esse occaecat velit sunt reprehenderit duis mollit voluptate occaecat fugiat sint cupidatat. Nostrud reprehenderit consequat eiusmod consectetur cupidatat reprehenderit quis et nostrud ea dolore velit do veniam. Adipisicing laboris ullamco nisi mollit fugiat officia pariatur aute mollit adipisicing deserunt culpa sunt aute.",
+            "registered": "Wednesday, March 1, 2017 2:46 PM",
+            "interestId": 2
+        },
+        {
+            "id": 3,
+            "name": "H.R. 3946: To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia",
+            "about": "Veniam nulla enim nostrud incididunt eiusmod proident veniam ullamco qui tempor amet velit sint aliqua. Occaecat incididunt commodo commodo dolor reprehenderit anim tempor sit non et labore. Do dolore id exercitation ullamco deserunt reprehenderit ut aliquip ipsum adipisicing pariatur minim aliqua. Nulla officia qui excepteur id pariatur proident ex. Occaecat ullamco anim nostrud qui ut labore eu duis. In non deserunt laboris reprehenderit aliqua ullamco consequat cillum quis.",
+            "registered": "Sunday, November 1, 2015 2:16 AM",
+            "interestId": 4
+        },
+        {
+            "id": 4,
+            "name": "H.Con.Res. 113: Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.",
+            "about": "Excepteur eu laborum nostrud proident eiusmod sit magna esse culpa non. Fugiat laborum do id proident laboris nisi cupidatat exercitation. Qui sint pariatur enim eiusmod aliqua in culpa deserunt nulla magna eu laboris dolor ipsum. Dolore adipisicing est culpa ea elit dolor nulla magna. Consequat nisi aliqua exercitation nostrud consequat proident velit ex culpa quis. Nulla reprehenderit deserunt incididunt consectetur enim tempor officia eu enim consequat sunt fugiat.",
+            "registered": "Tuesday, April 26, 2016 12:12 AM",
+            "interestId": 2
+        },
+        {
+            "id": 5,
+            "name": "S. 2155: Economic Growth, Regulatory Relief, and Consumer Protection Act",
+            "about": "Ipsum non nostrud quis cupidatat aliquip tempor consequat sunt labore occaecat do reprehenderit fugiat. Dolore nostrud in qui pariatur. Incididunt veniam reprehenderit irure occaecat non velit consequat nostrud eiusmod id.",
+            "registered": "Saturday, March 29, 2014 11:26 PM",
+            "interestId": 5
+        },
+        {
+            "id": 6,
+            "name": "H.R. 5682: FIRST STEP Act",
+            "about": "Lorem exercitation enim velit nostrud adipisicing non aute consequat occaecat culpa amet cillum in ut. Excepteur minim aliqua velit consectetur ipsum cupidatat velit incididunt cupidatat aliquip id aliqua reprehenderit. Minim excepteur excepteur aute aliqua proident. Consequat mollit voluptate dolore esse cupidatat do consequat velit. Culpa irure aute est eiusmod tempor laborum cillum Lorem.",
+            "registered": "Tuesday, May 20, 2014 5:17 PM",
+            "interestId": 5
+        },
+        {
+            "id": 7,
+            "name": "S. 2810: Workplace Democracy Act",
+            "about": "Minim tempor amet veniam proident ut tempor. Commodo tempor sit excepteur et exercitation eiusmod amet dolor amet est dolore ea. Duis minim exercitation duis eiusmod velit laborum velit aute est nostrud tempor eu velit magna.",
+            "registered": "Sunday, May 21, 2017 9:16 PM",
+            "interestId": 4
+        },
+        {
+            "id": 8,
+            "name": "H.R. 5713: National Guard Promotion Accountability Act",
+            "about": "Velit ullamco laborum ullamco laboris aliqua ut culpa ea deserunt adipisicing. Fugiat duis nisi nostrud ullamco irure deserunt id elit occaecat et culpa fugiat. Incididunt et duis cillum cupidatat mollit cillum aliqua non id labore in ipsum. Quis fugiat proident occaecat eiusmod. Aute velit cupidatat labore incididunt velit ea magna velit. Cillum nostrud voluptate incididunt dolore duis mollit et velit.",
+            "registered": "Saturday, July 23, 2016 5:44 AM",
+            "interestId": 1
+        },
+        {
+            "id": 9,
+            "name": "S. 65: Presidential Conflicts of Interest Act of 2017 ",
+            "about": "Cupidatat eu fugiat commodo excepteur ullamco non et do eiusmod cillum. Deserunt do consequat adipisicing occaecat et elit sint nulla fugiat nostrud culpa. Non reprehenderit velit voluptate sit eiusmod aliquip officia labore qui. Nostrud occaecat dolor culpa eiusmod amet esse ad nisi labore fugiat. Non aliquip cupidatat et esse cupidatat nisi tempor laborum commodo. Pariatur commodo est sint irure id commodo aliquip proident aliqua.",
+            "registered": "Tuesday, November 11, 2014 6:04 AM",
+            "interestId": 7
+        }
+    ],
+
+    "interests": [
+        {
+            "id": 8,
+            "about": "Agriculture"
+        },
+        {
+            "id": 1,
+            "about": "Finance"
+        },
+        {
+            "id": 2,
+            "about": "Entertainment"
+        },
+        {
+            "id": 3,
+            "about": "Nuclear"
+        },
+        {
+            "id": 4,
+            "about": "Military"
+        },
+        {
+            "id": 5,
+            "about": "Steel"
+        },
+        {
+            "id": 6,
+            "about": "Coal"
+        },
+        {
+            "id": 7,
+            "about": "International Trade"
+        }
+    ], 
+
+    "corporateInterests": [
+        {
+            "id": 1,
+            "corporationId": 5,
+            "interestId": 5
+        },
+        {
+            "id": 2,
+            "corporationId": 5,
+            "interestId": 8
+        },
+        {
+            "id": 3,
+            "corporationId": 5,
+            "interestId": 2
+        },
+        {
+            "id": 4,
+            "corporationId": 3,
+            "interestId": 7
+        },
+        {
+            "id": 5,
+            "corporationId": 1,
+            "interestId": 2
+        },
+        {
+            "id": 6,
+            "corporationId": 5,
+            "interestId": 8
+        },
+        {
+            "id": 7,
+            "corporationId": 2,
+            "interestId": 5
+        },
+        {
+            "id": 8,
+            "corporationId": 6,
+            "interestId": 7
+        },
+        {
+            "id": 9,
+            "corporationId": 1,
+            "interestId": 6
+        },
+        {
+            "id": 10,
+            "corporationId": 4,
+            "interestId": 6
+        },
+        {
+            "id": 11,
+            "corporationId": 4,
+            "interestId": 5
+        },
+        {
+            "id": 12,
+            "corporationId": 2,
+            "interestId": 6
+        },
+        {
+            "id": 13,
+            "corporationId": 2,
+            "interestId": 5
+        },
+        {
+            "id": 14,
+            "corporationId": 6,
+            "interestId": 4
+        },
+        {
+            "id": 15,
+            "corporationId": 4,
+            "interestId": 1
+        }
+    ],
+
+    "politicianBills": [
+        {
+            "id": 1,
+            "politicianId": 1,
+            "legislationId": 1
+        },
+        {
+            "id": 2,
+            "politicianId": 1,
+            "legislationId": 2
+        },
+        {
+            "id": 3,
+            "politicianId": 3,
+            "legislationId": 2
+        },
+        {
+            "id": 4,
+            "politicianId": 4,
+            "legislationId": 9
+        },
+        {
+            "id": 5,
+            "politicianId": 5,
+            "legislationId": 9
+        },
+        {
+            "id": 6,
+            "politicianId": 6,
+            "legislationId": 9
+        },
+        {
+            "id": 7,
+            "politicianId": 7,
+            "legislationId": 7
+        },
+        {
+            "id": 8,
+            "politicianId": 7,
+            "legislationId": 2
+        }
+    ]
 }
