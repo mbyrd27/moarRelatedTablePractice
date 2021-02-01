@@ -602,42 +602,42 @@
         {
             "id": 1,
             "politicianId": 1,
-            "legislationId": 1
+            "billId": 1
         },
         {
             "id": 2,
             "politicianId": 1,
-            "legislationId": 2
+            "billId": 2
         },
         {
             "id": 3,
             "politicianId": 3,
-            "legislationId": 2
+            "billId": 2
         },
         {
             "id": 4,
             "politicianId": 4,
-            "legislationId": 9
+            "billId": 9
         },
         {
             "id": 5,
             "politicianId": 5,
-            "legislationId": 9
+            "billId": 9
         },
         {
             "id": 6,
             "politicianId": 6,
-            "legislationId": 9
+            "billId": 9
         },
         {
             "id": 7,
             "politicianId": 7,
-            "legislationId": 7
+            "billId": 7
         },
         {
             "id": 8,
             "politicianId": 7,
-            "legislationId": 2
+            "billId": 2
         }
     ]
 }
